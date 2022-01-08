@@ -1,3 +1,5 @@
+# Description: A short program that asks for a person's daily sugar/fat/salt intake and prints the given information, including an assessment of the person's health status based on predetermined thresholds.
+
 while True:
     name = input('What is your first name/last name?')
     sugar_intake = float(input('What is the amount of your daily sugar intake (in grams)?'))
